@@ -1,5 +1,5 @@
-�A�O���R���{�[�h��̃A�N�V�������쐬����B
-�w�i�̊ȒP�ȐF�t���ȂǂɑΉ��B
-StageMaker�Ƃ������O�͖��炩�Ƀ~�X�}�b�`�B
+アグリコラボード上のアクションを作成する。
+背景の簡単な色付けなどに対応。
+StageMakerという名前は明らかにミスマッチ。
 
-txt�ɋL�q -> powershell�ŏ��������B
+txtに記述 -> powershellで順次流す。

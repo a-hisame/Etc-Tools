@@ -1,5 +1,5 @@
-PrevOpenFieldMaker.ps1�̓��E���h���߂�����O�̃t�B�[���h����邽�߂�powershell�B
-���Ƃ́Amakeround.ps1��roundXX.txt����͂����āAFieldMaker�ō쐬�����摜�̏�ɏ��ɏd�˂Ă����Ȃ���
-�K���ɉ摜�t�@�C���𐶐����Ă��������B
+PrevOpenFieldMaker.ps1はラウンドがめくられる前のフィールドを作るためのpowershell。
+あとは、makeround.ps1でroundXX.txtを入力させて、FieldMakerで作成した画像の上に順に重ねていきながら
+適当に画像ファイルを生成していくだけ。
 
-�������ʗ��round05�f�B���N�g�����B
+生成結果例はround05ディレクトリ内。
