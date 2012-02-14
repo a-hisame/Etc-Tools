@@ -1,0 +1,6 @@
+hibiki\1_00.png
+ami\1_01.png
+mami\1_04.png
+hibiki\1_02.png
+ami\2_00.png
+mami\0_02.png
